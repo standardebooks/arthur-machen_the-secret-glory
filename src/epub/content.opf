@@ -44,7 +44,7 @@
 		<meta property="authority" refines="#subject-5">LCSH</meta>
 		<meta property="term" refines="#subject-5">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An eccentric schoolboy is on a spritual quest for hidden wonders.</dc:description>
+		<dc:description id="description">An eccentric schoolboy is on a spiritual quest for hidden wonders.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ambrose Meyrick has high expectations of the world, and is disappointed in the mundane things he sees in the factory town around him. He finds that others fail to see or even try to appreciate what he thinks is beautiful and excellent. He gets along by pretending to conform, as the English public school tries to beat any individualism or imagination out of him.&lt;/p&gt;
 			&lt;p&gt;While Ambrose has trouble conforming to the expectations of his school, he reaches back in his memory to a time with his father, and a visit to an old Welsh farmer who has a curious holy cup. This cup opens up a mystical world of beauty and splendor, and serves as an escape from his troubled life.&lt;/p&gt;
