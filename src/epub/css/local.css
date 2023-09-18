@@ -71,9 +71,7 @@ blockquote > p > b{
 /* end no styling for inscription */
 
 /* dedication */
-#dedication p{
-	font-variant: small-caps;
+section[epub|type~="dedication"]{
 	text-align: center;
-	text-indent: 0;
 }
 /* end dedication */
