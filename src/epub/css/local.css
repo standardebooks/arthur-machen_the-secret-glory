@@ -12,7 +12,6 @@
 }
 
 [epub|type~="z3998:verse"] p + p,
-[epub|type~="z3998:song"] p + p,
 [epub|type~="z3998:poem"] p + p{
 	margin-top: 1em;
 }
@@ -45,11 +44,6 @@ p span.i3{
 	padding-left: 4em;
 	text-indent: -1em;
 }
-
-p span.i4{
-	padding-left: 5em;
-	text-indent: -1em;
-}
 /* end verse and song */
 
 /* blockquote list of sayings */
@@ -75,3 +69,11 @@ section[epub|type~="dedication"]{
 	text-align: center;
 }
 /* end dedication */
+
+/* header */
+[epub|type~="z3998:song"] header > p{
+	font-style: italic;
+	margin: 1em;
+	text-align: center;
+}
+/* end header */
