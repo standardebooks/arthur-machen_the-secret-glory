@@ -59,8 +59,8 @@ blockquote[xml|lang]{
 /* end language styling */
 
 /* no styling for inscription */
-blockquote > p > b{
-	font-style: initial;
+blockquote[xml|lang="la"] b{
+	font-style: normal;
 }
 /* end no styling for inscription */
 
