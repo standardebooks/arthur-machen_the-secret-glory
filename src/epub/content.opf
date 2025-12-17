@@ -54,7 +54,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/35637</dc:source>
 		<dc:source>https://archive.org/details/secretglory00machiala</dc:source>
-		<meta property="se:word-count">65803</meta>
+		<meta property="se:word-count">65802</meta>
 		<meta property="se:reading-ease.flesch">62.72</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/arthur-machen_the-secret-glory</meta>
 		<dc:creator id="author">Arthur Machen</dc:creator>
